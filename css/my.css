@@ -1,0 +1,22 @@
+#a1 {
+        test-decoration-line: none;
+}
+.input{
+    background-color: blueviolet;   
+}
+input {
+    background-color: antiquewhite;
+}
+label {
+    color: aqua;
+}
+.tc-red{
+    color: red;
+    font-style: italic;
+}
+.bg-blue {
+    background-color: blue;
+    font-style: italic;
+}
+
+
